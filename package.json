@@ -1,0 +1,25 @@
+{
+  "name": "hexo-baidu-url-push",
+  "version": "0.1.0",
+  "description": "A hexo plugin, using Baidu JS automatic link push method, submit links to Baidu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuanmiaoG/hexo-baidu-url-push.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "baidu",
+    "seo"
+  ],
+  "author": "XuanmiaoG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XuanmiaoG/hexo-baidu-url-push/issues"
+  },
+  "homepage": "https://github.com/XuanmiaoG/hexo-baidu-url-push#readme"
+}
