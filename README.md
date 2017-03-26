@@ -8,6 +8,7 @@
 ## 简介
 ![jspush](https://www.xuanmiao.info/2017/03/19/Hexo-Plugin-%E7%99%BE%E5%BA%A6%E9%93%BE%E6%8E%A5%E8%87%AA%E5%8A%A8%E6%8E%A8%E9%80%81%E5%B7%A5%E5%85%B7/jspush.JPG)
 
+
 > 自动推送是百度站长平台为提高站点新增网页发现速度推出的工具，安装自动推送JS代码的网页，在页面被访问时，页面URL将立即被推送给百度。
 
 一个hexo插件，使用百度JS链路自动推送方法，提交链接到百度
